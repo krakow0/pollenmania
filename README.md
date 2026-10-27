@@ -9,6 +9,9 @@ I relied heavily on learning pygame through this website:
 https://www.geeksforgeeks.org/python/python-for-game-development-getting-started-with-pygame/
 So, special thanks to their helpful guidelines for beginners like me :P
 
-Another thank you to Admurin https://admurin.itch.io/
+~ Assets Credit ~
+Thank you to Admurin https://admurin.itch.io/
 for their amazing bee sprite asset pack!
+
+Thank you to JennPixel https://jennpixel.itch.io/ for the beautiful flower assets pack!  
 
